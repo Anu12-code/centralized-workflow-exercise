@@ -1,13 +1,13 @@
 ## Ingredients
 
-2 handfull of root veggies - carrot, beetroot, parsnip, turnip...
-1/ apple
-salt
-pepper
-vinegar
-olive oil
-mustard
-dill
+- 2 handfull of root veggies - carrot, beetroot, parsnip, turnip...
+- 1/2 apple
+- salt
+- pepper
+- vinegar
+- olive oil
+- mustard
+- dill
 
 ## Instructions
 1. wash
