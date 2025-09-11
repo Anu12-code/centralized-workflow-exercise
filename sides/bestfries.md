@@ -1,7 +1,7 @@
-##Ingredients
+## Ingredients
 Potatoes
 
-##Instructions
+## Instructions
 peel potatoes
 slice the potatoes
 boil the potatoes
