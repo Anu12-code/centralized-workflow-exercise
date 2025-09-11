@@ -19,7 +19,7 @@ softened 4 cups confectioners' sugar
 1 teaspoon vanilla extract 
 1 cup chopped pecans (Optional)
 
-## Directions:
+## Instructions:
 - Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch pan.
 
 - Beat sugar, oil, eggs, and 2 teaspoons vanilla together in a large bowl with an electric mixer until well combined.
