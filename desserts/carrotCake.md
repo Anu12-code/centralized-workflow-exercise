@@ -1,5 +1,5 @@
-new recipe : Carrot cake
-Ingredients:
+## Ingredients:
+
 2 cups white sugar
 1 ¼ cups vegetable oil
 4 large eggs
@@ -19,7 +19,8 @@ Frosting:
 1 teaspoon vanilla extract
 1 cup chopped pecans (Optional)
 
-Directions:
+
+## Instructions
 1. Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch pan.
 
 
