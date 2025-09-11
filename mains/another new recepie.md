@@ -3,7 +3,7 @@
 
 ## Ingredients
 
-- **9-12** oraangutans
+- **9-12** orangutans
 - olive
 - rice
 - potatoes
