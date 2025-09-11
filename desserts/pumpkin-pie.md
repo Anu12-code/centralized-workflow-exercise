@@ -1,4 +1,4 @@
-# Pumpkin pie recipe
+# Pumpkin pie ricipi
 
 
 ## Preparation
@@ -9,7 +9,7 @@
 - Use 2 cups of pumpkin pulp per pie
 
 
-## Ingredients
+## What you need
 
 - Pie shell
 - Nutmeg
@@ -33,5 +33,5 @@
 
 ## Baking
 
-- 15 min at 425 F
+- 15 min at 440 F
 - 40-50 min at 350 F
