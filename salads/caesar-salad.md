@@ -11,7 +11,8 @@
 - 1 teaspoon Dijon mustard
 - 2 tablespoons lemon juice (freshly squeezed)
 - 2 anchovy fillets, minced (or 1 teaspoon anchovy paste)
-- 1 garlic clove, minced
+- 2 garlic clove, minced
+
 - ⅓ cup olive oil
 - 3 tablespoons grated Parmesan cheese
 - Salt and pepper to taste
