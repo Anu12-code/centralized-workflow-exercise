@@ -6,7 +6,7 @@
 - **9-12** oraangutans
 - olive
 - rice
-- potatose
+- potatoes
 
 
 ## Instructions
