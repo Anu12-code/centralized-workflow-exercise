@@ -1,4 +1,4 @@
-# 🍝 Simple Pasta Recipe
+# Simple Pasta Recipe
 
 ## Ingredients
 - 200 g pasta (spaghetti, penne, or your choice)  
