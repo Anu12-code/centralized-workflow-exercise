@@ -19,7 +19,8 @@ Frosting:
 1 teaspoon vanilla extract
 1 cup chopped pecans (Optional)
 
-Directions:
+
+## Instructions
 1. Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch pan.
 
 
