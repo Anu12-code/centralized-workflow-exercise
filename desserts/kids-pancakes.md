@@ -1,11 +1,11 @@
 ## Kids pancakes
 
-#Ingredients
+##Ingredients
 - 1 banana
 - 2 eggs
 - 3 tbsp oats
 
-#Instructions
+##Instructions
 1. Mash banana
 2. Whisk eggs
 3. Mix in oats
