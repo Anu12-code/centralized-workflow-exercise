@@ -1,4 +1,4 @@
-# Pasta Boscaiola Recipe
+# Macaroni and Cheese Recipe
 
 ## Ingredients
 - Macaroni
