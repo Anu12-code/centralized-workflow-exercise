@@ -1,5 +1,5 @@
-new recipe : Carrot cake
-Ingredients:
+## Ingredients:
+
 2 cups white sugar
 1 ¼ cups vegetable oil
 4 large eggs
