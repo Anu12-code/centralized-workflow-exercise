@@ -20,7 +20,7 @@
 
 - pepper
 
-- ## Instructions
+## Instructions
 
 - Step 1: boil water
 
