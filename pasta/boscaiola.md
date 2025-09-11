@@ -12,7 +12,8 @@
 - 100 ml cream (optional, for a richer sauce)  
 - Fresh parsley, chopped  
 - Salt and black pepper, to taste  
-- Grated Parmigiano Reggiano, for serving  
+- Grated Parmigiano Reggiano, for serving
+- The blood of the infidels
 
 ## Instructions
 1. **Cook the pasta**  
