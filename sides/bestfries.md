@@ -1,5 +1,5 @@
 ## Ingredients
-Potatoes
+1 kg Poratoes
 
 ## Instructions
 peel potatoes
