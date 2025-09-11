@@ -20,6 +20,7 @@
 
 - pepper
 
+- chili flakes
 ## Instructions
 
 - Step 1: boil water
