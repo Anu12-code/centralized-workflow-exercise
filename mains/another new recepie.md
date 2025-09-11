@@ -11,4 +11,4 @@
 
 ## Instructions
 
-- boiled it all together
+- boil it all together
