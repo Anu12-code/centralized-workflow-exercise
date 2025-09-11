@@ -1,4 +1,4 @@
-new recipe : Carrot cake
+new recipe : Carrot cake 🥕
 Ingredients:
 2 cups white sugar
 1 ¼ cups vegetable oil
